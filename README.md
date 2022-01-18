@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IAAlvs. A Mathematics Aplied and Computing Student
-- 👀 I’m interested in ... Mathematics,Finances And Computing, now im better Programming than in Advanced Mathematics
+- 👀 I’m interested in ... Mathematics,Finances And Computing, now im getting better in Programming than in Advanced Mathematics
 - 🌱 I’m currently learning ... Advanced Js and Linear Programming
 - 💞️ I’m looking to collaborate on ... Big projects 
 - 📫 How to reach me ... https://twitter.com/IsaacAlfredoAl1
