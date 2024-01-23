@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IAAlvs. A Mathematics Aplied and Computing Student
+- 👋 Hi, I’m @IAAlvs
 - 👀 I’m interested in ... Mathematics,Finances And Computing, now im getting better in Programming than in Advanced Mathematics
 - 🌱 I’m currently learning ... Advanced Js, and Linear Programming, Machine learning principles and Software architecure.
 - 💞️ I’m looking to collaborate on ... Big|Fun projects 
